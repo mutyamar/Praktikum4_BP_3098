@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Praktikum4_3098</string>
+    <string name="text1">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="text_fragment">Ini adalah Halaman Dashboard</string>
+    <string-array name="nama_array_kota">
+        <item>Yogyakarta</item>
+        <item>Jakarta</item>
+        <item>Surabaya</item>
+        <item>Bandung</item>
+    </string-array>
+</resources>
